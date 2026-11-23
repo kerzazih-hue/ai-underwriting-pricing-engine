@@ -5,3 +5,4 @@ Quantify the risk and take decision:
 
 • Tab 2: Generates underwriting memos, deductible adjustments, and client negotiation pitches.
 
+streamlit run app.py
